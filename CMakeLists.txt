@@ -3,4 +3,4 @@ project(USACO)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(USACO main.cpp)
+add_executable(USACO portals.cpp swap.cpp comfycow.cpp yearofthecow.cpp justgreenenough.cpp)
