@@ -1,0 +1,3 @@
+C:/Users/Aaron/OneDrive/Desktop/USACO/cmake-build-debug/CMakeFiles/USACO.dir
+C:/Users/Aaron/OneDrive/Desktop/USACO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aaron/OneDrive/Desktop/USACO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
